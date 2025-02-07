@@ -1,0 +1,42 @@
+body{
+    background-color:#cfe5ff;
+}
+
+header a{
+    text-align: center;
+    padding: 50px;
+    text-decoration: none;
+    color: black;
+}
+header{
+    padding: 3px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 990px;
+}
+img{
+    width: 264px;
+    height: 164px;
+    margin: 50px;
+   
+}
+p{
+margin-left: 20px;
+}
+
+footer{
+     padding: 3px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 990px;
+}
+footer p{
+     text-align: center;
+    padding: 50px;
+    text-decoration: none;
+    color: black;
+}
